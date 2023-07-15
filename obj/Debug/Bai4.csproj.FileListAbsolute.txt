@@ -1,0 +1,11 @@
+D:\FPT\C#-3\Lab2\Bai4\bin\Debug\Bai4.exe.config
+D:\FPT\C#-3\Lab2\Bai4\bin\Debug\Bai4.exe
+D:\FPT\C#-3\Lab2\Bai4\bin\Debug\Bai4.pdb
+D:\FPT\C#-3\Lab2\Bai4\obj\Debug\Bai4.csproj.AssemblyReference.cache
+D:\FPT\C#-3\Lab2\Bai4\obj\Debug\Bai4.csproj.SuggestedBindingRedirects.cache
+D:\FPT\C#-3\Lab2\Bai4\obj\Debug\Bai4.Properties.Resources.resources
+D:\FPT\C#-3\Lab2\Bai4\obj\Debug\Bai4.csproj.GenerateResource.cache
+D:\FPT\C#-3\Lab2\Bai4\obj\Debug\Bai4.csproj.CoreCompileInputs.cache
+D:\FPT\C#-3\Lab2\Bai4\obj\Debug\Bai4.exe
+D:\FPT\C#-3\Lab2\Bai4\obj\Debug\Bai4.pdb
+D:\FPT\C#-3\Lab2\Bai4\obj\Debug\Bai4.frm_dsTheThao.resources
